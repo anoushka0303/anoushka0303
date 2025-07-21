@@ -1,17 +1,41 @@
-## Hi there 👋
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Workbench&size=25&letterSpacing=0.3rem&duration=4000&pause=500&center=true&vCenter=true&width=700&lines=Hi+There+%F0%9F%91%8B;I'm+Anoushka;Computer+Science+undergrad+at+BIT+MESRA" alt="Typing SVG" />
+</h1
 
-<!--
-**anoushka0303/anoushka0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-hello
+🚀 AI/ML | Django | Fast API | DSA enthusiast 🛠️
+  
+🐾 Debugging servers by day, feeding street cats by night, sometimes debugging  <b> LIFE </b>   T_T . I love automating the boring stuff, optimizing infrastructure, and occasionally getting lost in solving mysterious problems (some call it coding, I call it an adventure). 😼☁️
+  
+  My expertise includes <b>AI/ML</b>, <b>Backend Development</b>, <b>Python</b>
+</p>
+
+- 📫 How to reach me: 
+  -Send an email to prakashanoushka03@gmail.com
+
+
+## 🛠️ TechStack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,PyTorch,Mediapipe,java,javascript&theme=dark" alt="Skills"><br>
+  
+</div>
+
+
+## 📊 GitHub Statistics
+<h1 align=center>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anoushka0303&theme=codeSTACKr" />
+</a>
+</h1>
+<h1 align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=anoushka0303&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoushka0303&theme=codeSTACKr&show_icons=true&hide_border=true&layout=compact" />
+</a>
+</h1>
