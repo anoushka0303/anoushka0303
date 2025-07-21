@@ -19,7 +19,7 @@
 ## 🛠️ TechStack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,PyTorch,Mediapipe,java,javascript&theme=dark" alt="Skills"><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,pytorch,java,javascript&theme=dark" alt="Skills">
   
 </div>
 
