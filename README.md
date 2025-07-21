@@ -7,7 +7,7 @@
 
 🚀 AI/ML | Django | Fast API | DSA enthusiast 🛠️
   
-🐾 Debugging servers by day, feeding street cats by night, sometimes debugging  <b> LIFE </b>   T_T . I love automating the boring stuff, optimizing infrastructure, and occasionally getting lost in solving mysterious problems (some call it coding, I call it an adventure). 😼☁️
+🐾 Solving problems with Java (DSA), building intelligent systems (AI/ML), and crafting robust backends with Django & FastAPI. Always learning, always building!
   
   My expertise includes <b>AI/ML</b>, <b>Backend Development</b>, <b>Python</b>
 </p>
