@@ -5,11 +5,11 @@
 
 
 
-🚀 AI/ML | Django | Fast API | DSA enthusiast 🛠️
+🚀 AI/ML | Django | Fast API | DSA enthusiast 🛠️ | SpringBoot
   
 🐾 Solving problems with Java (DSA), building intelligent systems (AI/ML), and crafting robust backends with Django & FastAPI. Always learning, always building!
   
-  My expertise includes <b>AI/ML</b>, <b>Backend Development</b>, <b>Python</b>
+  My expertise includes <b>AI/ML</b>, <b>Backend Development</b>, <b>Python</b>, <b> Java </b>
 </p>
 
 - 📫 How to reach me: 
@@ -19,7 +19,7 @@
 ## 🛠️ TechStack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,pytorch,java,javascript&theme=dark" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,opencv,tensorflow,pytorch,java,javascript,springboot&theme=dark" alt="Skills">
   
 </div>
 
